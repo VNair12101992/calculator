@@ -1,0 +1,17 @@
+{
+  "browserstack": {
+    "user": "dummy_hOCjH3",
+    "key": "EyLxmCnczjw1zyX7zkEZ",
+    "app": "bs://a34f2e40ca5c62bb5571feab62f78d0824c3a3c3"
+  },
+  "device": {
+    "name": "Samsung Galaxy S10 Plus",
+    "os_version": "9.0"
+  },
+  "project": {
+    "project": "Calculator App",
+    "build": "test",
+    "name": "Test Calculator App"
+  },
+  "hub_url": "http://hub.browserstack.com/wd/hub"
+}
